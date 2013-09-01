@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/42/trunk/src
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/42/trunk/src/input.c
+END
+event_name_to_code.h.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/38/trunk/src/event_name_to_code.h.sh.in
+END
+evkey_code_to_name.h.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/38/trunk/src/evkey_code_to_name.h.sh.in
+END
+lircd.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/27/trunk/src/lircd.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/41/trunk/src/input.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/41/trunk/src/main.c
+END
+evkey_type.h.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/src/evkey_type.h.sh.in
+END
+monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/38/trunk/src/monitor.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/src/Makefile.am
+END
+monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/27/trunk/src/monitor.h
+END
+lircd.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/38/trunk/src/lircd.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/43/trunk/man
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/man/Makefile.am
+END
+eventlircd.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/man/eventlircd.8.in
+END
+eventlircd.evmap.5.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/man/eventlircd.evmap.5.in
+END

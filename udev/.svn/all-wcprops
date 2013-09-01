@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/44/trunk/udev
+END
+lircd_helper.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/trunk/udev/lircd_helper.in
+END
+wakeup_enable.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/udev/wakeup_enable.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/udev/Makefile.am
+END
